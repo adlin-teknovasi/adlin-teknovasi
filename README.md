@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## Temukan Saya
   <img src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" width="200" height="44" />
-  <img src="https://www.logo.wine/a/logo/facebook/Instagram-Glyph-Color-Logo.wine.svg" width="200" height="44" />
+  <img src="https://www.logo.wine/a/logo/Facebook/Facebook-Glyph-Color-Logo.wine.svg" width="200" height="44" />
   <img src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" width="200" height="44" />
 
 
